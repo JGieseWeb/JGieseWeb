@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a Tankstellenfinder Web-App
 - 🌱 I’m currently learning React 
-- 📫 How to reach me on 
+- 📫 How to reach me on [Linked In](www.linkedin.com/in/jannikgiese)
 
 ## Tech Stack and Technologies
 
